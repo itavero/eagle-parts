@@ -7,7 +7,6 @@ The included submodules reference some of the libraries I use sometimes.
 Note that these libraries most likely have a different license than the ones I
 have created.
 
-## Getting all libraries in one directory
-By running `collect.sh` (Linux) or `collect.bat` (Windows) all `*.lbr` files are
-copied to the `collection` folder. That way you only have to add the
-`collection` folder to your EAGLE configuration.
+## Other collections?
+If you know of other useful collections that are available online, please
+let me know, so I can add them.
