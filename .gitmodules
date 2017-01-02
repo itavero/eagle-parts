@@ -10,3 +10,6 @@
 [submodule "pimoroni"]
 	path = pimoroni
 	url = https://github.com/pimoroni/eagle.git
+[submodule "esden-pel"]
+	path = esden-pel
+	url = git@github.com:esden/pretty-eagle-libs.git
